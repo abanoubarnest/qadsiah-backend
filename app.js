@@ -1,0 +1,1 @@
+// # Application setup, configures Express.js and MongoDB
